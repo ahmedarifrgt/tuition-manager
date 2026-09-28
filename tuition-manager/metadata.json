@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Manager",
+  "description": "Complete tuition management system for private tutors and coaching teachers to manage students, classes, attendance, fees, exams, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
